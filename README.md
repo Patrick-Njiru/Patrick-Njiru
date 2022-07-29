@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Patrick-Njiru
 - 👀 I’m interested in coding, problem solving, shooting pool.
 - 🌱 I’m currently learning software engineering in Moringa School.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - LinkedIn - [Patrick Njiru](httpswwwlinkedincominpatricknjiru7569241ba)
+- You can reach me on LinkedIn - [Patrick Njiru](httpswwwlinkedincominpatricknjiru7569241ba)
 
 
 <!---

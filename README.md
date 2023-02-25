@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Patrick-Njiru
 - 🌱 I’m a junior Developer in HTML, CSS, Vanilla JS, React JS, Ruby, and Ruby on Rails.
+-  I am also knowledgeable in using platforms like Jira, Figma, Slack, and Stack Overflow among others
 - 👀 I’m interested in coding, problem solving, shooting pool.
-- I am also knowledgeable in using platforms like Jira, Figma, Slack, and Stack Overflow among others
 - You can reach me on LinkedIn - [Patrick Njiru](httpswwwlinkedincominpatricknjiru7569241ba)
 
 

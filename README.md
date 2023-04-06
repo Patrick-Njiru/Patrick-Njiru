@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Patrick-Njiru
-- 🌱 I’m a software engineer using HTML, CSS, React.js, and Django.
--  I am also knowledgeable in deployment and in using platforms like Postman, Jira, Figma, Google Slides, Slack, Trello, and Stack Overflow among others
-- 👀 I’m interested in coding, problem solving, shooting pool.
-- You can reach me on LinkedIn - [Patrick Njiru](httpswwwlinkedincominpatricknjiru7569241ba)
+<h1> 👋 Hi, I’m @Patrick-Njiru </h1>
+<p> 🌱 I’m a full stack engineer using HTML, CSS, JavaScript, React.Js, Django and databases like Postgres and SQLite. </p>
+<p>  I am also savvy with platforms like Postman, Jira, Figma, Google Slides, Slack, Trello, and Stack Overflow among others. </p>
+<p> 👀 I enjoy practicing my creative and problem solving skills through coding and shooting pool. </p>
+<p> You can reach me on <a href="https://www.linkedin.com/in/patrick-njiru-7569241ba/" target="_blank">
+  LinkedIn </a> or <a href="https://www.facebook.com/patorankinglefte/" target="_blank"> Facebook </a>
 
 
 <!---

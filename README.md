@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m @Patrick-Njiru </h1>
+<h1> 👋 Hi, I’m Patrick-Njiru </h1>
 <p> 🌱 I’m a full stack engineer using HTML, CSS, JavaScript, React.Js, Django and databases like Postgres and SQLite. </p>
 <p>  I am also savvy with platforms like Postman, Jira, Figma, Google Slides, Slack, Trello, and Stack Overflow among others. </p>
 <p> 👀 I enjoy practicing my creative and problem solving skills through coding and shooting pool. </p>

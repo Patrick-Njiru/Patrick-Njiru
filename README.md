@@ -4,7 +4,7 @@
 <br>
 <p> ⚡ I’m a Software Engineering graduate 👨‍🎓 from Moringa School.</p>
 <ul> 
-  <li>🔭 I have 8 months of experience in both Front End and Back End Development with multiple projects in various programming languages.
+  <li>🔭 I have 8 months of experience in both Front End and Back End Development with multiple projects.
   <li>
      🌱 I am a passionate learner who is always willing to learn and work across technologies and domains. I enjoy solving complex problems using my          problem-solving, creative and analytical thinking skills.
   </li>

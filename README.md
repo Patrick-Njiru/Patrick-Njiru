@@ -8,10 +8,6 @@
    
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrick-Njiru&count_private=true&show_icons=true&theme=merko&custom_title=Stats&line_height=40)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Njiru&size_weight=0&count_weight=1&langs_count=6&layout=compact)](https://github.com/Patrick-Njiru/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Njiru&size_weight=0&count_weight=1&langs_count=6&theme=monokai)](https://github.com/Patrick-Njiru/github-readme-stats)
 
-
-<!---
-Patrick-Njiru/Patrick-Njiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Patrick-Njiru&theme=juicyfresh&margin-w=20&margin-h=20)](https://github.com/Patrick-Njiru/github-profile-trophy)

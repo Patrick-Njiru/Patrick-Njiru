@@ -2,6 +2,15 @@
   <img src="https://i.ibb.co/sq7ZJSJ/banner.png" alt="banner" border="0" width='100%'>
 </a>
 <br>
+<p> ⚡ I’m a Software Engineering graduate 👨‍🎓 from Moringa School.</p>
+<ul> 
+  <li>🔭 I have 8 months of experience in both Front End and Back End Development with multiple projects in various programming languages.
+  <li>
+     🌱 I am a passionate learner who is always willing to learn and work across technologies and domains. I enjoy solving complex problems using my          problem-solving, creative and analytical thinking skills.
+  </li>
+  <li>💻 In my free time I solve  problems on Data Structures and Algorithms on Codewars and HackerRank. </li>
+  <li>👨‍💻 I am open to internship or work.</li>
+</ul>
 <div align='center'>
   <a href="https://www.linkedin.com/in/patrick-njiru-7569241ba/" target='blank'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,18 +20,11 @@
   </a>
 </div>
 <br>
-<p> 
-  I’m a motivated Software Engineering graduate 👨‍🎓 from Moringa School with knowledge in both Full Stack Development. I have 8 months of experience with 
-  multiple projects in various programming languages. I am a passionate learner who is always willing to learn and work across technologies and domains. 
-  I enjoy solving complex problems using my problem-solving, creative and analytical thinking skills. In my free time I solve problems 👨‍💻 on Codewars and 
-  HackerRank. I am open to work 💻.
-</p>
-<br>
 <h2 align='center'> Technology Stack </h2>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"  height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux"  width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"  alt="python" width="40" height="40"/> </a> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,git,django,postgres,mysql,sqlite,vscode,netlify,py,postman,ruby" />
+  </a>
 </p>
 <br>
 <h2 align='center'> My GitHub Stats 🐅 :feet: :feet: :feet: </h2>

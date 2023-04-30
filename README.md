@@ -3,13 +3,13 @@
 </a>
 <br>
 <!-- About Me-->
-<p> ⚡ I’m a Software Engineering graduate 👨‍🎓 from Moringa School.</p>
+<p> ⚡ I’m a Software Engineering graduate 👨‍🎓 from Moringa School. </p>
 <ul> 
   <li> 🔭 I have 8 months of experience having learnt and created multiple projects in both Front End and Back End. </li>
-  <li> 🌱 I am a passionate learner who is always willing to learn and work across technologies and domains. </li>
+  <li> 💻 I am a passionate learner who is always willing to learn and work across technologies and domains. </li>
   <li>
-    💻 I enjoy solving complex problems using my creative and analytical thinking skills.
-    In my free time I solve  problems on Data Structures and Algorithms on Codewars and HackerRank. </li>
+    ☕ I enjoy solving complex problems using my creative and analytical thinking skills.
+    In my free time I solve problems on Data Structures and Algorithms  on Codewars and HackerRank. </li>
   <li> 👨‍💻 I am open to internship or work. </li>
 </ul>
 <!-- Social Links -->
@@ -31,7 +31,7 @@
 </p>
 <br>
 <!-- Stats and Top Languages -->
-<h2 align='center'> My GitHub Stats 🐅 :feet: :feet: :feet: </h2>
+<h2 align='center'> My GitHub Stats 🐅  🐾🐾🐾 </h2>
 <p>
   <a href='https://github-readme-stats.vercel.app/api?username=Patrick-Njiru&count_private=true&show_icons=true&theme=merko&line_height=40'>
     <img src='https://github-readme-stats.vercel.app/api?username=Patrick-Njiru&count_private=true&show_icons=true&theme=merko&line_height=40' width='60.5%'>

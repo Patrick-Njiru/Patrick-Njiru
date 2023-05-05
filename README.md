@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/sq7ZJSJ/banner.png" alt="banner" border="0" width='100%'>
+<img src="https://i.ibb.co/QM04jBj/banner.png" alt="banner" border="0" />
 <br>
 <!-- About Me-->
 <p> ⚡ I’m a Software Engineering graduate 👨‍🎓 from Moringa School. </p>

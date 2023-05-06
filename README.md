@@ -1,15 +1,16 @@
 <img src="https://i.ibb.co/QM04jBj/banner.png" alt="banner" border="0" />
 <br>
 <!-- About Me-->
-<p> ⚡ I’m a Software Engineering graduate 👨‍🎓 from Moringa School. </p>
-<ul> 
+<p align='center'> ⚡ I’m a Software Engineering graduate 👨‍🎓 from Moringa School. 🔭 I have 8 months of experience having learnt and created multiple projects in both Front End and Back End. 💻 I am a passionate learner who is always willing to learn and work across technologies and domains. ☕ I enjoy solving complex problems using my creative and analytical thinking skills.
+    In my free time I solve problems on Data Structures and Algorithms  on Codewars and HackerRank. 👨‍💻 I am open to internship or work.</p>
+<!-- <ul> 
   <li> 🔭 I have 8 months of experience having learnt and created multiple projects in both Front End and Back End. </li>
   <li> 💻 I am a passionate learner who is always willing to learn and work across technologies and domains. </li>
   <li>
     ☕ I enjoy solving complex problems using my creative and analytical thinking skills.
     In my free time I solve problems on Data Structures and Algorithms  on Codewars and HackerRank. </li>
   <li> 👨‍💻 I am open to internship or work. </li>
-</ul>
+</ul> -->
 <!-- Social Links -->
 <div align='center'>
   <a href="https://www.linkedin.com/in/patrick-njiru-7569241ba/" target='blank'>

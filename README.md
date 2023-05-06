@@ -35,7 +35,7 @@
   <a href='https://github-readme-stats.vercel.app/api?username=Patrick-Njiru&count_private=true&show_icons=true&theme=merko&line_height=40'>
     <img src='https://github-readme-stats.vercel.app/api?username=Patrick-Njiru&count_private=true&show_icons=true&theme=merko&line_height=40' width='60.5%'>
   </a>
-  <a href='https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Njiru&size_weight=0.5&count_weight=0.5&theme=merko)'>
+  <a href='https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Njiru&size_weight=0.5&count_weight=0.5&theme=merko'>
     <img width='39%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Njiru&size_weight=0.5&count_weight=0.5&theme=merko'>
   </a>
 </p>

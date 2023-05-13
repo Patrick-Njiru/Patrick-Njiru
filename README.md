@@ -31,7 +31,7 @@
 <br>
 <!-- Stats and Top Languages -->
 <h2 align='center'> My GitHub Stats 🐅  🐾🐾🐾 </h2>
-<p>
+<p align='center'>
   <a href='https://github-readme-stats.vercel.app/api?username=Patrick-Njiru&count_private=true&show_icons=true&theme=merko&line_height=40'>
     <img src='https://github-readme-stats.vercel.app/api?username=Patrick-Njiru&count_private=true&show_icons=true&theme=merko&line_height=40' width='60.5%'>
   </a>

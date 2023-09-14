@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/patrick-njiru-7569241ba/" target='blank'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://patrick-njiru-portfolio.netlify.app/" target='blank'>
+  <a href="https://patrick-njiru-portfolio.vercel.app" target='blank'>
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge">
   </a>
 </div>

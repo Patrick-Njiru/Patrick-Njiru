@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/QM04jBj/banner.png" alt="banner" border="0" />
 <br>
 <!-- About Me-->
-<p align='center'> ⚡ I’m a passionate software developer currently competent in Front-End React Development but soon to be a Full-Stack JavaScript developer. 💻 I enjoy creating or re-creating visually appealing websites from scratch during which I sharpen my problem-solving skills and acquire a ton of knowledge along the way. I am open to work or collaboration.</p>
+<p align='center'> ⚡ I’m a passionate software developer currently competent in Front-End React Development but soon to be a Full-Stack JavaScript developer. I have also interacted with Python and Ruby and their respective frameworks Django and Ruby on Rails. 💻 I enjoy creating or re-creating visually appealing websites from scratch during which I sharpen my problem-solving skills and acquire a ton of knowledge along the way. I am open to work or collaboration.</p>
 
 <!-- Social Links -->
 <div align='center'>

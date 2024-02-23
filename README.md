@@ -5,10 +5,10 @@
 
 <!-- Social Links -->
 <div align='center'>
-  <a href="https://www.linkedin.com/in/patrick-njiru-7569241ba/" target='blank'>
+  <a href="https://www.linkedin.com/in/patrick-njiru-7569241ba/" target='_blank'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://patrick-njiru-portfolio.vercel.app" target='blank'>
+  <a href="https://patrick-dev-portfolio-omega.vercel.app/" target='_blank'>
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge">
   </a>
 </div>

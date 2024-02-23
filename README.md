@@ -17,7 +17,7 @@
 <h2 align='center'> Technology Stack </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,,css,,bootstrap,,js,,react,,git,,github,,vscode">
+    <img src="https://skillicons.dev/icons?i=js,,react,,tailwindcss,,html,,css,,bootstrap,,git,,vscode">
   </a>
 </p>
 <br>

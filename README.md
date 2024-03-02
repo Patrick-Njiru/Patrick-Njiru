@@ -17,7 +17,7 @@
 <h2 align='center'> Technology Stack </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,,react,,tailwindcss,,html,,css,,bootstrap,,git,,vscode">
+    <img src="https://skillicons.dev/icons?i=js,,react,,tailwindcss,,html,,css,,bootstrap,,git,,vscode,python,,ruby,,django">
   </a>
 </p>
 <br>
@@ -28,7 +28,8 @@
     <img src='https://github-readme-stats.vercel.app/api?username=Patrick-Njiru&count_private=true&show_icons=true&theme=merko&line_height=40' width='60.5%'>
   </a>
   <a href='https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Njiru&size_weight=0.5&count_weight=0.5&theme=merko&hide=python,ruby&langs_count=4'>
-    <img width='39%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Njiru&size_weight=0.5&count_weight=0.5&theme=merko&hide=python,ruby&langs_count=4'>
+    <img width='39%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Njiru&size_weight=0.5&count_weight=0.5&theme=merko'>
+<!--     <img width='39%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Njiru&size_weight=0.5&count_weight=0.5&theme=merko&hide=python,ruby&langs_count=4'> -->
   </a>
 </p>
 <!-- GitHub Streak -->
@@ -59,9 +60,9 @@
  
 <!-- ![](https://komarev.com/ghpvc/?username=Patrick-Njiru&style=flat-square) -->
 
-<!-- <h2 align='center'> Trophies </h2>
+ <h2 align='center'> Trophies </h2>
 <p align="center">
   <a href='https://github-profile-trophy.vercel.app/?username=Patrick-Njiru&theme=juicyfresh&margin-w=30&margin-h=20'>
     <img src='https://github-profile-trophy.vercel.app/?username=Patrick-Njiru&theme=juicyfresh&margin-w=30&margin-h=20'>
   </a>
-</p> -->
+</p> 

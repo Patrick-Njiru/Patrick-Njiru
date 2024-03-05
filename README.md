@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/QM04jBj/banner.png" alt="banner" border="0" />
 <br>
 <!-- About Me-->
-<p align='center'> ⚡ I’m a passionate software developer currently competent in Front-End React Development but soon to be a Full-Stack JavaScript developer. I have also interacted with Python and Ruby and MySQL and PostgreSQL databases. I have several Full-Stack projects in my repertoire. 💻 I enjoy creating or re-creating visually appealing websites from scratch during which I sharpen my problem-solving skills and acquire a ton of knowledge along the way. I am open to work or collaboration.</p>
+<p align='center'> ⚡ I’m a passionate software developer currently competent in Front-End React Development with familiarity in Back-End Development using Django and Ruby on Rails. I have a wide variety of projects in my repertoire. 💻 I enjoy creating visually appealing websites with great user experiences to challenge my creativity, sharpen my problem-solving skills, and learn new concepts or technologies. I am open to work and collaboration (looking for opportunities).</p>
 
 <!-- Social Links -->
 <div align='center'>
@@ -60,9 +60,9 @@
  
 <!-- ![](https://komarev.com/ghpvc/?username=Patrick-Njiru&style=flat-square) -->
 
- <h2 align='center'> Trophies </h2>
+<!-- <h2 align='center'> Trophies </h2>
 <p align="center">
   <a href='https://github-profile-trophy.vercel.app/?username=Patrick-Njiru&theme=juicyfresh&margin-w=30&margin-h=20'>
     <img src='https://github-profile-trophy.vercel.app/?username=Patrick-Njiru&theme=juicyfresh&margin-w=30&margin-h=20'>
   </a>
-</p> 
+</p> -->

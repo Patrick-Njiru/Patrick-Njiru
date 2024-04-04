@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/QM04jBj/banner.png" alt="banner" border="0" />
 <br>
 <!-- About Me-->
-<p align='center'> ⚡ I’m a passionate software developer currently competent in Front-End React Development with familiarity in Back-End Development using Django and Ruby on Rails. I have a wide variety of projects in my repertoire. 💻 I enjoy creating visually appealing websites with great user experiences to challenge my creativity, sharpen my problem-solving skills, and learn new concepts or technologies. I am open to work and collaboration (looking for opportunities).</p>
+<p align='center'> ⚡ I’m a passionate self-driven Software Developer from Nairobi, Kenya with a wide variety of skills as evidenced by the multiple projects in my repertoire. 💻 I enjoy creating visually appealing websites with great user experiences to challenge my creativity, sharpen my problem-solving skills, and learn new concepts or technologies. I am open to learning new technologies, work and collaboration.</p>
 
 <!-- Social Links -->
 <div align='center'>

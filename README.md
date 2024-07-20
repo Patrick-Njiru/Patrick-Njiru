@@ -8,7 +8,7 @@
   <a href="www.linkedin.com/in/patricknjiru" target='_blank'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="[https://patrick-dev-portfolio-omega.vercel.app/](https://patrick-njiru-professional-portfolio.vercel.app/)" target='_blank'>
+  <a href="https://patrick-njiru-professional-portfolio.vercel.app/" target='_blank'>
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge">
   </a>
 </div>

@@ -1,14 +1,14 @@
 <img src="https://i.ibb.co/QM04jBj/banner.png" alt="banner" border="0" />
 <br>
 <!-- About Me-->
-<p align='center'> ⚡ I’m a passionate self-driven Software Developer from Nairobi, Kenya with a wide variety of skills as evidenced by the multiple projects in my repertoire. 💻 I enjoy creating visually appealing websites with great user experiences to challenge my creativity, sharpen my problem-solving skills, and learn new concepts or technologies. I am open to learning new technologies, work and collaboration.</p>
+<p align='center'> ⚡ I’m a passionate, self-driven Software Developer from Nairobi, Kenya with a wide variety of skills as evidenced by the multiple projects in my repertoire. 💻 I enjoy creating visually appealing websites with great user experiences to challenge my creativity, sharpen my problem-solving skills, and learn new concepts or technologies. I am open to learning new technologies, work and collaboration.</p>
 
 <!-- Social Links -->
 <div align='center'>
-  <a href="www.linkedin.com/in/patricknjiru" target='_blank'>
+  <a href="www.linkedin.com/in/patricknjiru">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://patrick-njiru-professional-portfolio.vercel.app/" target='_blank'>
+  <a href="https://patrick-njiru-professional-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge">
   </a>
 </div>

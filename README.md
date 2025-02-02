@@ -17,7 +17,7 @@
 <h2 align='center'> Technology Stack </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,python,react,tailwindcss,bootstrap,html,css,mysql,postgresql,git,wordpress">
+    <img src="https://skillicons.dev/icons?i=js,,ts,,react,,next,,html,,css,,tailwindcss,,bootstrap,,mysql,,postgresql,,git,,wordpress">
   </a>
 </p>
 <br>
